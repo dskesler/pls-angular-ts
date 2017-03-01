@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dskesler/pls-angular-ts/issues"
   },
-  "homepage": "https://github.com/dskesler/pls-angular-ts#readme"
+  "homepage": "https://github.com/dskesler/pls-angular-ts#readme",
+  "dependencies": {
+    "@types/angular": "^1.6.7"
+  },
+  "devDependencies": {
+    "angular": "^1.6.2"
+  }
 }
